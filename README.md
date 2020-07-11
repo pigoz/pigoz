@@ -4,11 +4,13 @@ of my free time studying japanese and optimizing it trough software.
 
 chat: pigoz @ freenode
 
+
+```ascii
        :\     /;               _
       ;  \___/  ;             ; ;
      ,:-"'   `"-:.            / ;
 _   /,---.   ,---.\   _     _; /
-_:>((  |  ) (  |  ))<:_ ,-""_,"
+.:>((  |  ) (  |  ))<:_ ,-""_,"
     \`````   `````/""""",-""
      '-.._ v _..-'      )
        / ___   ____,..  \
