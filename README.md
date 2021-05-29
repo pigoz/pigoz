@@ -3,7 +3,7 @@ programming. A retired maintainer of [mpv](https://github.com/mpv-player/mpv), I
 currently spending a lot of my free time trying to learn Japanese (with terrible
 results) and writing free software to automate and optimize language learning.
 
-chat: pigoz @ freenode
+chat: pigoz @ libera.chat
 ```ascii
        :\     /;               _
       ;  \___/  ;             ; ;
