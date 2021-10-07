@@ -1,7 +1,9 @@
 I'm a software developer based in Italy. I like Ruby, TypeScript and functional
-programming. A retired maintainer of [mpv](https://github.com/mpv-player/mpv), I'm
-currently spending a lot of my free time trying to learn Japanese (with terrible
-results) and writing free software to automate and optimize language learning.
+programming.
+
+A retired maintainer of [mpv](https://github.com/mpv-player/mpv), when I'm not 
+hiking or climbing, I like to study Japanese and make software to make language 
+learning more efficient.
 
 chat: pigoz @ libera.chat
 ```ascii
