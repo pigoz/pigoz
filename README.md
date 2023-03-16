@@ -1,10 +1,10 @@
 ### Hello,
 
-I'm a software developer based in Italy. I like Ruby, TypeScript and functional
-programming.
+I'm a software developer based in Italy.
 
-Project co-founder and former maintainer @ [mpv](https://github.com/mpv-player/mpv).
-When I'm not hiking or climbing, I like to study Japanese and write software to 
-make language acquisition more efficient.
+I like Ruby, TypeScript, functional
+programming, and have gotten into  [effect-ts](https://github.com/Effect-TS) lately.
+
+Project co-founder and former maintainer at [mpv](https://github.com/mpv-player/mpv). Used to do a lot of open source, but I now spend most of my free time hiking or climbing.
 
 chat: pigoz @ libera.chat
